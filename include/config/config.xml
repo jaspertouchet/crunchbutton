@@ -186,22 +186,22 @@
 	</mailgun>
 	<twilio>
 		<apps>
-			<driver>_KEY_</driver>
-			<customer>_KEY_</customer>
-			<restaurant>_KEY_</restaurant>
-			<test>_KEY_</test>
+			<driver>ACe7ae4efdd868f5a6587207cc8b885913</driver>
+			<customer>ACe7ae4efdd868f5a6587207cc8b885913</customer>
+			<restaurant>ACe7ae4efdd868f5a6587207cc8b885913</restaurant>
+			<test>ACe7ae4efdd868f5a6587207cc8b885913</test>
 		</apps>
 		<live>
-			<sid>_KEY_</sid>
-			<token>_KEY_</token>
-			<hostname>_DOMAIN_</hostname>
-			<outgoingTextCustomer>_PHONE_</outgoingTextCustomer>
-			<outgoingTextRestaurant>_PHONE_</outgoingTextRestaurant>
-			<outgoingTextDriver>_PHONE_</outgoingTextDriver>
-			<outgoingCustomer>_PHONE_</outgoingCustomer>
-			<outgoingRestaurant>_PHONE_</outgoingRestaurant>
-			<outgoingDriver>_PHONE_</outgoingDriver>
-			<outgoingTest>_PHONE_</outgoingTest>
+			<sid>ACe7ae4efdd868f5a6587207cc8b885913</sid>
+			<token>5df586708ce3d6d2a27af014e8cd8f1d</token>
+			<hostname>foolivery.com</hostname>
+			<outgoingTextCustomer>2512205178</outgoingTextCustomer>
+			<outgoingTextRestaurant>2512205178</outgoingTextRestaurant>
+			<outgoingTextDriver>2512205178</outgoingTextDriver>
+			<outgoingCustomer>2512205178</outgoingCustomer>
+			<outgoingRestaurant>2512205178</outgoingRestaurant>
+			<outgoingDriver>2512205178</outgoingDriver>
+			<outgoingTest>2512205178</outgoingTest>
 		</live>
 		<dev>
 			<sid>_KEY_</sid>
